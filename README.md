@@ -1,2 +1,2 @@
-# tic-tac-toe
+# Tic Tac Toe
 Tic tac toe console java game
