@@ -9,7 +9,7 @@ How to run this in terminal:
 
 How to play the game:
 -
-Define your board size, (e.g. 3) then press enter
-Then X's turn, input the constrained values to locate where you want to put the X
-Next turn is O's, do the same thing as X did
-Keep playing until the game announces the result and quit the program
+1. Define your board size, (e.g. 3) then press enter
+2. Then X's turn, input the constrained values to locate where you want to put the X
+3. Next turn is O's, do the same thing as X did
+4. Keep playing until the game announces the result and quit the program
